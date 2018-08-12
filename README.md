@@ -1,6 +1,9 @@
 # go-gdax-orderbook
 Open sourcing the orderbook code of my auto trader.
 
+## What is this?
+This repo contains code to process L3 data from GDAX and a runtime efficient orderbook. 
+
 ## How to run
 At project root. Download dependencies
 ```
