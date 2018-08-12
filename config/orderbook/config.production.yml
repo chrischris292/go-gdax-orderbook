@@ -1,0 +1,10 @@
+coinbase:
+  cb_secret: ""
+  cb_key: ""
+  cb_passphrase: ""
+  cb_rest_api: "https://api.gdax.com"
+  cb_ws: "wss://ws-feed.gdax.com"
+sentry:
+  dsn:
+collector:
+  filepath: ./data
