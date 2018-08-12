@@ -1,2 +1,8 @@
 # go-gdax-orderbook
-Supports L3 data
+Open sourcing the orderbook code of my auto trader.
+
+## How to run
+cd to project
+```
+  go get -u ./... 
+```
